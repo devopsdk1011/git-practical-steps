@@ -1,2 +1,3 @@
 This is new file created in local repo
 Add more line
+To check Git Diff CMD
