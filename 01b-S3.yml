@@ -11,5 +11,5 @@ Resources:
       BucketName: "demo-4-test-cicd-bucket-for-aws1234"
       AccessControl: PublicRead
       WebsiteConfiguration:
-        IndexDocument: index.html
-        ErrorDocument: error.html
+        IndexDocument: index123.html
+        ErrorDocument: error123.html
